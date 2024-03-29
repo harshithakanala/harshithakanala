@@ -1,3 +1,4 @@
+![MasterHead](https://pbs.twimg.com/ext_tw_video_thumb/1716600005878824960/pu/img/wksbt3VDvQiKAwl2.jpg:large)
 <h1 align="center">Hello 👋, I'm Harshitha S Kanala</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
