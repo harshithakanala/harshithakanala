@@ -2,15 +2,32 @@
 <h1 align="center">Hello 👋, I'm Harshitha S Kanala</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f2799009798404f46d3329867a8b18a68036a2e94aa37a597571f719e3a1b494/68747470733a2f2f76696468692d6d6f64792e6769746875622e696f2f696d672f636f6e747269627574652e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a90f89ea0526124490ee59efdddc15e00e7bac26c94c1ad427793ef1dc4319c9/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
 
-- 🌱 I’m currently learning **Next.js, Tailwind CSS**
 
-- 💬 Ask me about **MongoDB, Node.js, Express.js**
+🌟 About Me:
+- 💻 A software developer with 2 years of experience in the MEAN stack.
+- 🛠 Skilled in Angular, Node.js, MongoDB, Express, and TypeScript.
+- 🚀 Passionate about crafting seamless user experiences and scalable backend solutions.
+- 🎬 In my free time, I enjoy watching anime—always looking for new shows to dive into and enjoy!
 
-- 📫 How to reach me: **[harshithasubramanyam2001@gmail.com](mailto:harshithasubramanyam2001@gmail.com)**
+ 💬 Let’s Chat About:
+- Building robust backend systems with Node.js and Express.js.
+- Designing dynamic web applications with Angular and TypeScript.
+- Enhancing workflows using Docker, Git, and n8n.
+  
+🌟 Interests:
+- Project Management: Passionate about efficient project delivery, collaborating with teams, and ensuring projects are completed on time, within scope, and on budget.
+- Salesforce: Exploring cloud solutions and leveraging Salesforce to optimize customer relationship management (CRM) and streamline business processes.
 
-- 📄 Know about my experiences: [View my resume](https://drive.google.com/file/d/1QKiPIk3h8X7wl-7oobAp50DuqpaAEGlr/view)
+📫 Reach Me Anytime:
+ **[harshithasubramanyam2001@gmail.com](mailto:harshithasubramanyam2001@gmail.com)**
+
+📄 Know More About Me:
+ - 📜 Check Out My Resume: [View my resume](https://drive.google.com/file/d/1m-dFQMa1NxfUEW4raPZxghbLiFZetKJC/view?usp=sharing)
+
+🤝 Feel Free to Connect:
+Let's discuss exciting tech trends, projects, or just have a friendly chat!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
