@@ -24,7 +24,8 @@
  **[harshithasubramanyam2001@gmail.com](mailto:harshithasubramanyam2001@gmail.com)**
 
 📄 Know More About Me:
- - 📜 Check Out My Resume: [View my resume](https://drive.google.com/file/d/1m-dFQMa1NxfUEW4raPZxghbLiFZetKJC/view?usp=sharing)
+ - 📜 Check Out My Resume: [View my resume](https://drive.google.com/file/d/1BSZT3KLkXwYIlH8bXGWeNUH3031a91HZ/view?usp=sharing)
+ - 🌐 Check Out My Portfolio: [View my portfolio](https://portfolio-six-mauve-30.vercel.app/)
 
 🤝 Feel Free to Connect:
 Let's discuss exciting tech trends, projects, or just have a friendly chat!
